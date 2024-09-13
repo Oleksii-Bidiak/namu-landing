@@ -1,4 +1,4 @@
-# Nothing Landing Page
+# NAMU Landing Page
 
 **[Click the link to see DEMO](https://oleksii-bidiak.github.io/namu-landing/)**
 
@@ -11,7 +11,7 @@ This project is a modern, responsive landing page designed using best practices 
 ```bash
 src/
   ├── fonts/               # Custom fonts and icon font
-  │   └── icon-font/        # Icon font in various formats
+  │   └── icon-font/       # Icon font in various formats
   ├── images/              # All project images
   ├── scripts/             # JavaScript or TypeScript files
   ├── styles/
@@ -23,6 +23,7 @@ src/
   ├── style.scss           # Main stylesheet that imports other styles
   ├── favicon.svg          # Favicon for the site
   └── index.html           # Main HTML file
+```
 
 ## Technologies used
 - HTML
